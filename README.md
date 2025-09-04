@@ -8,14 +8,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0ci/0ci/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0ci/0ci/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0ci/0ci/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/2n5josgcyqfgc3ahggs2cge3m">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ub07l4xgarqg9fp0mmu31d09k&count=5&unique=false" alt="Spotify recently played"  />
