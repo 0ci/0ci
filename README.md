@@ -1,5 +1,5 @@
 <h1 align="center">Bem-vindo!💾</h1>
-<h4 align="center">18y - UI/UX designer</h4>
+<h4 align="center">18y - ui/ux</h4>
 
 ###
 
