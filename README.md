@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo!💾</h1>
+<h1 align="center">Bem-vindo💾</h1>
 <h4 align="center">18y - ui/ux</h4>
 
 <div align="center">
